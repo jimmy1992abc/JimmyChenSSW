@@ -1,6 +1,6 @@
 ### Hi there 👋 This is Jimmy Chen
 
-### SSW Accountant
+### SSW Senior Accountant
 
 - 📄 I'm a CPA
 - 👤 I'm a Certified Scrum Master
