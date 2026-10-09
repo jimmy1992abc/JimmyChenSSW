@@ -1,13 +1,13 @@
 ### Hi there 👋 This is Jimmy Chen
 
-### SSW Senior Accountant
+### Senior Accountant
 
 - 📄 I'm a CPA
 - 👤 I'm a Certified Scrum Master
-- 🌏 I'm based in Sydney Australia
-- 🔭 I’m currently working for SSW
+- 🌏 I'm based in Sydney, Australia
 - 💬 Ask me about ...Accounting, Xero and how to apply the latest technology to them
-- 📫 How to reach me: ... jimmychen@ssw.com.au    
+- 🤖 I love AI, and I am a little bit beyond a vibe coder
+- 📫 How to reach me: ... xin@thechens.au    
 - ⚡ Fun fact: ...If I am not an accountant, maybe I would be an Esports gamer star!
 -->
   
